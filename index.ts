@@ -1,5 +1,5 @@
 //made by Blue00123
-
+//.
 //cps 사용여부 (true/false)
 let usecpsactionbar: boolean = true;
 
